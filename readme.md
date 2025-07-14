@@ -1,0 +1,3 @@
+# install
+.. some installation instructions
+...
